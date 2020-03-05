@@ -1,7 +1,7 @@
 {
-  "name": "chart",
+  "name": "chartjs",
   "version": "1.0.0",
-  "description": "A mini integration for chartjs package in a reactjs application.",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
